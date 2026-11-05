@@ -1,0 +1,41 @@
+message,category
+"I was charged twice for the same order",Billing
+"My payment was deducted but the order failed",Billing
+"I need a refund for this purchase",Billing
+"The invoice amount is incorrect",Billing
+"My card payment failed",Billing
+"Why did you charge me extra",Billing
+"I was billed for something I did not buy",Billing
+"The refund has not reached my account",Billing
+"My transaction was declined",Billing
+"The payment page charged me twice",Billing
+"I forgot my password",Login
+"I cannot sign in to my account",Login
+"My login is not working",Login
+"The verification code never arrived",Login
+"My account is locked",Login
+"I cannot access my profile",Login
+"Password reset is not working",Login
+"The sign in page keeps rejecting me",Login
+"I lost access to my account",Login
+"I cannot log into the app",Login
+"My package has not arrived",Delivery
+"Where is my order",Delivery
+"The delivery is late",Delivery
+"My parcel is still not here",Delivery
+"The courier did not deliver my package",Delivery
+"My order says shipped but I have not received it",Delivery
+"When will my package arrive",Delivery
+"The tracking information has not changed",Delivery
+"My parcel went to the wrong address",Delivery
+"The delivery date has already passed",Delivery
+"The product stopped working",Product Support
+"The device will not turn on",Product Support
+"The app crashes when I open it",Product Support
+"The product is damaged",Product Support
+"This feature is not working",Product Support
+"The device keeps restarting",Product Support
+"The application freezes every time",Product Support
+"My product is showing an error",Product Support
+"The item does not work correctly",Product Support
+"The software keeps crashing",Product Support
